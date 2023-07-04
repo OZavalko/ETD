@@ -205,5 +205,16 @@ footer{
         height: 100%;
         width: 100%;
     }
+    .copyridht{
+        text-align: center;
+        line-height: 2px;
+    }
+    .copyridht b{
+        display: block;
+    }
+    .copyridht a{
+        text-decoration: none;
+        color: #a81919;
+    }
 }
 /* media end*/
