@@ -194,4 +194,16 @@ footer{
         height: auto;
     }
 }
+@media (max-width: 480px){
+    .section_top{
+        float: none;
+    }
+    .section_bottom_right{
+        width: auto;
+    }
+    .section_bottom_right img{
+        height: 100%;
+        width: 100%;
+    }
+}
 /* media end*/
